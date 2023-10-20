@@ -26,12 +26,14 @@
   이를 근거로 주거 환경에서 발생할 수 있는 범죄유형을 알아보기 위해 경찰청에서 제공한 [신고 빈발지 데이터](https://www.bigdata-policing.kr/product/view?product_id=PRDT_500)를 분석해보았습니다. <br />
   ![image](https://github.com/zi9ooJJ/24for7-DV-community/assets/119485385/c8bd4304-2cd4-4d88-a7ad-0ac680ee9a01) <br />
   상단 그래프를 통하여 가정폭력 신고비율은 3년간 꾸준히 증가하고있음을 알 수 있습니다.
+  
 - 전국 가정폭력 융합요소 데이터 <br />
   [전국 가정폭력 융합요소 데이터](https://www.bigdata-policing.kr/product/view?product_id=PRDT_142)를 분석하여 가정폭력의 특성을 분석하였습니다.
   ![image](https://github.com/zi9ooJJ/24for7-DV-community/assets/119485385/bb051da1-cb04-430e-b887-e2bfec475455)
   ![image](https://github.com/zi9ooJJ/24for7-DV-community/assets/119485385/6ac3e48c-d788-44e7-a4b8-85adcdb6c6d7) <br />
 위 두 그래프에서 시사하듯, 가정폭력이 재발되어 접수되는 신고는 전국 총 가정폭력 신고접수건수에서 30% 이상을 차지합니다.
 해당 사실에서 알 수 있는 사실은 가정폭력은 재범률이 높은 특성을 가지고, 지속적으로 피해자를 고통스럽게 하는 범죄 유형이라는 것입니다.
+
 - **위의 내용을 포함한 추가적인 데이터 분석 내용은 [여기서](https://github.com/zi9ooJJ/24for7-DV-community/blob/main/1Team_data_analysis.ipynb) 확인 가능합니다.**
   
 3️⃣ **결론**
@@ -68,6 +70,9 @@
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white">
  
 ### 4. 프로젝트 기능 설명
+- 메인기능 : 익명 게시판(카테고리 - 질문, 정보공유, 잡담), 온라인 채팅 상담
+- 서브기능 : 오프라인 전문 상담소 안내(지도로 위치 표현), 공익 캠페인 안내
+- 와이어프레임 : [Figma](https://www.figma.com/file/QsWKWTA2JNX7Gux4Ot1aee/1%ED%8C%80-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=4-6&mode=design&t=NyJ1CLvijGUYSPy8-0)
 
 ### 5. 프로젝트 팀원 역할 분담
 
