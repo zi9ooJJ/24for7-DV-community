@@ -34,7 +34,7 @@
 위 두 그래프에서 시사하듯, 가정폭력이 재발되어 접수되는 신고는 전국 총 가정폭력 신고접수건수에서 30% 이상을 차지합니다.
 해당 사실에서 알 수 있는 사실은 가정폭력은 재범률이 높은 특성을 가지고, 지속적으로 피해자를 고통스럽게 하는 범죄 유형이라는 것입니다.
 
-- **위의 내용을 포함한 추가적인 데이터 분석 내용은 [여기서](https://github.com/zi9ooJJ/24for7-DV-community/blob/main/1Team_data_analysis.ipynb) 확인 가능합니다.**
+- **위의 내용을 포함한 추가적인 데이터 분석 내용은 [여기서](https://github.com/zi9ooJJ/24for7-DV-community/blob/main/data_analysis/1Team_data_analysis.ipynb) 확인 가능합니다.**
   
 3️⃣ **결론**
 
